@@ -1,0 +1,14 @@
+﻿x,y,type,lable 
+62,21,Sensor,Sensor 1
+66,35,Sensor,Sensor 2
+76,41,Sensor,Sensor 3
+88,45,Sensor,Sensor 4
+103,43,Sensor,Sensor 5
+102,22,Sensor,Sensor 6
+89,3,Sensor,Sensor 7
+74,7,Sensor,Sensor 8
+119,42,Sensor,Sensor 9
+89,27,Factory,Roadrunner 
+90,21,Factory,Kasios 
+109,26,Factory,Radiance 
+120,22,Factory,Indigo
